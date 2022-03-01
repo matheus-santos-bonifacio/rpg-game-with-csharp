@@ -1,0 +1,16 @@
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/bin/Debug/net5.0/dotnet-poo
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/bin/Debug/net5.0/dotnet-poo.deps.json
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/bin/Debug/net5.0/dotnet-poo.runtimeconfig.json
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/bin/Debug/net5.0/dotnet-poo.runtimeconfig.dev.json
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/bin/Debug/net5.0/dotnet-poo.dll
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/bin/Debug/net5.0/ref/dotnet-poo.dll
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/bin/Debug/net5.0/dotnet-poo.pdb
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/obj/Debug/net5.0/dotnet-poo.csproj.AssemblyReference.cache
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/obj/Debug/net5.0/dotnet-poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/obj/Debug/net5.0/dotnet-poo.AssemblyInfoInputs.cache
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/obj/Debug/net5.0/dotnet-poo.AssemblyInfo.cs
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/obj/Debug/net5.0/dotnet-poo.csproj.CoreCompileInputs.cache
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/obj/Debug/net5.0/dotnet-poo.dll
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/obj/Debug/net5.0/ref/dotnet-poo.dll
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/obj/Debug/net5.0/dotnet-poo.pdb
+/home/caneladeouro/Documents/dio/first-steps-in-dotnet/dotnet-poo/obj/Debug/net5.0/dotnet-poo.genruntimeconfig.cache
