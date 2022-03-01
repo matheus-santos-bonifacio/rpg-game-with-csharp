@@ -18,6 +18,6 @@ Actions
 
 ## Start
 
-````
+```
 dotnet run
 ```
